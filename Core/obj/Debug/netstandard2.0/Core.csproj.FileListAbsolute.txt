@@ -1,0 +1,34 @@
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Lezioni Federico\PathFinding-Finale\PathFinding\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Lezioni Federico\PathFinding-Finale\PathFinding\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Lezioni Federico\PathFinding-Finale\PathFinding\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Lezioni Federico\PathFinding-Finale\PathFinding\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Lezioni Federico\PathFinding-Finale\PathFinding\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Lezioni Federico\PathFinding-Finale\PathFinding\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Lezioni Federico\PathFinding-Finale\PathFinding\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Lezioni Federico\PathFinding-Finale\PathFinding\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\Core\obj\Debug\netstandard2.0\Core.csproj.AssemblyReference.cache
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\Core\obj\Debug\netstandard2.0\Core.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jn0pWsgXAE41D6Qv7FsFIwrrBCWMWVhPCp6X73pfi5Pf0k3SlHA1hHzxoogYot70+6sbU6kRdKL3M31eXpq2Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luigi\\Desktop\\AIV Programmazione 2019-2020\\Tiled\\Progetto Fine Anno Luigi Spiller\\ProgettoFineAnno\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luigi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\luigi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
