@@ -1,0 +1,106 @@
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\player.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.exe.config
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.exe
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.pdb
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\aiv-fast2d.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\OpenTK.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\OpenTK.xml
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\obj\Debug\ProgFineAnno.csproj.CopyComplete
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.exe
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.pdb
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\obj\Debug\ProgFineAnno.csprojAssemblyReference.cache
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\PixelPackTOPDOWN8BIT.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\MappaProva.tmx
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Core.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Core.pdb
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Player\HEROS8bit_Adventurer Idle R.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Player\HEROS8bit_Adventurer Walk R.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Player\HEROS8bit_Adventurer Walk D.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Player\HEROS8bit_Adventurer Walk U.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Player\HEROS8bit_Adventurer Idle U.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Player\HEROS8bit_Adventurer Idle D.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\aiv-audio.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\NVorbis.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\NVorbis.xml
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Audio\walkStep.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\comics.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\textSheet.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\aivBG.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\gameOverBg.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\MappaCasa1.tmx
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Items\item8BIT_key.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\mappaCaverna.tmx
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\mappaCasa2.tmx
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Audio\Dungeon-Theme.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Audio\Grasslands-Theme.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Audio\House-Theme.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Audio\Intro-Theme.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\ArenaMap.tmx
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Audio\Boss-Theme.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Audio\Picked-Coin-Echo.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\EnemyDog\HEROS8bit_Dog Idle D.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\EnemyDog\HEROS8bit_Dog Idle R.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\EnemyDog\HEROS8bit_Dog Idle U.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\EnemyDog\HEROS8bit_Dog Walk D.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\EnemyDog\HEROS8bit_Dog Walk R.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\EnemyDog\HEROS8bit_Dog Walk U.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Audio\bark.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Audio\Sadness.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Items\cup.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Items\item8BIT_crown.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\MappaCasaFinal.tmx
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\win.jpg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\PluginLayers\TiledPlugin\TiledPlugin\bin\Debug\Assets\Audio\Victory1.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\aivBG.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Audio\bark.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Audio\Boss-Theme.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Audio\House-Theme.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Audio\Intro-Theme.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Audio\Picked-Coin-Echo.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Audio\Sadness.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Audio\Victory1.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Audio\walkStep.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\comics.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Audio\Dungeon-Theme.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\EnemyDog\HEROS8bit_Dog Idle D.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\EnemyDog\HEROS8bit_Dog Idle R.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\EnemyDog\HEROS8bit_Dog Idle U.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\EnemyDog\HEROS8bit_Dog Walk D.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\EnemyDog\HEROS8bit_Dog Walk R.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\EnemyDog\HEROS8bit_Dog Walk U.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\gameOverBg.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Audio\Grasslands-Theme.ogg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Items\cup.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Items\item8BIT_crown.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Items\item8BIT_key.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\PixelPackTOPDOWN8BIT.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\player.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Player\HEROS8bit_Adventurer Idle D.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Player\HEROS8bit_Adventurer Idle R.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Player\HEROS8bit_Adventurer Idle U.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Player\HEROS8bit_Adventurer Walk D.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Player\HEROS8bit_Adventurer Walk R.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\Player\HEROS8bit_Adventurer Walk U.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\textSheet.png
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\win.jpg
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\ArenaMap.tmx
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\mappaCasa2.tmx
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\MappaCasaFinal.tmx
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\mappaCaverna.tmx
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\TiledPlugin.exe.config
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\TiledPlugin.exe
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\TiledPlugin.pdb
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\aiv-audio.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\aiv-fast2d.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Core.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\NVorbis.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\OpenTK.dll
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Core.pdb
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\NVorbis.xml
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\OpenTK.xml
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\obj\Debug\ProgFineAnno.csproj.CopyComplete
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\obj\Debug\TiledPlugin.exe
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\obj\Debug\TiledPlugin.pdb
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\bin\Debug\Assets\MappaEsterna1.tmx
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\obj\Debug\ProgFineAnno.csproj.AssemblyReference.cache
+C:\Users\luigi\Desktop\AIV Programmazione 2019-2020\Tiled\Progetto Fine Anno Luigi Spiller\ProgettoFineAnno\TiledPlugin\obj\Debug\ProgFineAnno.csproj.CoreCompileInputs.cache

@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{34C14F22-957B-4338-ADDC-522ED1456586}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>TiledPlugin</RootNamespace>
+    <AssemblyName>TiledPlugin</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="aiv-audio, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Aiv.Audio.0.2.2\lib\net40\aiv-audio.dll</HintPath>
+    </Reference>
+    <Reference Include="aiv-fast2d, Version=1.0.7092.29749, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Aiv.Fast2D.0.15.5\lib\net40\aiv-fast2d.dll</HintPath>
+    </Reference>
+    <Reference Include="NVorbis, Version=0.8.6.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NVorbis.0.8.6\lib\net35\NVorbis.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK, Version=2.0.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenTK.2.0.0\lib\net20\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actors\Actor.cs" />
+    <Compile Include="Actors\Enemy.cs" />
+    <Compile Include="Animations\EnemyAnimations\EnemyWalkU.cs" />
+    <Compile Include="Animations\EnemyAnimations\EnemyWalkR.cs" />
+    <Compile Include="Animations\EnemyAnimations\EnemyWalkL.cs" />
+    <Compile Include="Animations\EnemyAnimations\EnemyIdleD.cs" />
+    <Compile Include="Animations\EnemyAnimations\EnemyIdleU.cs" />
+    <Compile Include="Animations\EnemyAnimations\EnemyIdleR.cs" />
+    <Compile Include="Animations\EnemyAnimations\EnemyIdleL.cs" />
+    <Compile Include="Animations\EnemyAnimations\EnemyWalkD.cs" />
+    <Compile Include="Animations\PlayerIdleD.cs" />
+    <Compile Include="Animations\PlayerIdleU.cs" />
+    <Compile Include="Animations\PlayerIdleL.cs" />
+    <Compile Include="Animations\PlayerIdleR.cs" />
+    <Compile Include="Animations\PlayerWalksL.cs" />
+    <Compile Include="Animations\PlayerWalksU.cs" />
+    <Compile Include="Animations\PlayerWalksD.cs" />
+    <Compile Include="Animations\PlayerWalksR.cs" />
+    <Compile Include="Bullets\Bullet.cs" />
+    <Compile Include="Bullets\BulletsMgr.cs" />
+    <Compile Include="Bullets\EnemyBullet.cs" />
+    <Compile Include="Bullets\EnemyFireball.cs" />
+    <Compile Include="Bullets\Fireball.cs" />
+    <Compile Include="Bullets\PlayerBullet.cs" />
+    <Compile Include="Engine\CameraMgr.cs" />
+    <Compile Include="Engine\AudioMgr.cs" />
+    <Compile Include="Engine\Collision\Collision.cs" />
+    <Compile Include="Engine\Components\Animation.cs" />
+    <Compile Include="Engine\Components\AnimationBase.cs" />
+    <Compile Include="Engine\Components\Component.cs" />
+    <Compile Include="Engine\Components\WalkAnimation.cs" />
+    <Compile Include="Engine\RandomGenerator.cs" />
+    <Compile Include="Engine\Text\Font.cs" />
+    <Compile Include="Engine\Text\FontMgr.cs" />
+    <Compile Include="Engine\Text\TextChar.cs" />
+    <Compile Include="Engine\Text\TextObject.cs" />
+    <Compile Include="GUI\KeyGUI.cs" />
+    <Compile Include="Items\Cup.cs" />
+    <Compile Include="Scene\CaveScene.cs" />
+    <Compile Include="Scene\WinScene.cs" />
+    <Compile Include="Scene\IndoorScene2.cs" />
+    <Compile Include="Tiled\TileMgr.cs" />
+    <Compile Include="Tiled\TileObj.cs" />
+    <Compile Include="Engine\Background.cs" />
+    <Compile Include="Engine\Collision\BoxCollider.cs" />
+    <Compile Include="Engine\Collision\CircleCollider.cs" />
+    <Compile Include="Engine\Painter.cs" />
+    <Compile Include="Engine\Collision\Collider.cs" />
+    <Compile Include="Engine\Collision\ColliderFactory.cs" />
+    <Compile Include="Engine\DrawMgr.cs" />
+    <Compile Include="Engine\Game.cs" />
+    <Compile Include="Actors\Player.cs" />
+    <Compile Include="Engine\GameObject.cs" />
+    <Compile Include="Engine\GfxMgr.cs" />
+    <Compile Include="Engine\IDrawable.cs" />
+    <Compile Include="Engine\IUpdatable.cs" />
+    <Compile Include="Engine\PhysicsMgr.cs" />
+    <Compile Include="Engine\RigidBody.cs" />
+    <Compile Include="Engine\UpdateMgr.cs" />
+    <Compile Include="FSM\AttackState.cs" />
+    <Compile Include="FSM\ChaseState.cs" />
+    <Compile Include="FSM\IdleState.cs" />
+    <Compile Include="FSM\EnemyIdleState.cs" />
+    <Compile Include="FSM\State.cs" />
+    <Compile Include="FSM\StateKey.cs" />
+    <Compile Include="FSM\StateMachine.cs" />
+    <Compile Include="FSM\WalkingState.cs" />
+    <Compile Include="Items\Key.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Engine\RandomTimer.cs" />
+    <Compile Include="Scene\GameOverScene.cs" />
+    <Compile Include="Scene\Layer.cs" />
+    <Compile Include="Scene\IndoorScene1.cs" />
+    <Compile Include="Scene\OutDoorScene.cs" />
+    <Compile Include="Scene\Scene.cs" />
+    <Compile Include="Scene\TitleScene.cs" />
+    <Compile Include="Tile.cs" />
+    <Compile Include="Tiled\TileGrid.cs" />
+    <Compile Include="Tiled\TileGridFactory.cs" />
+    <Compile Include="Tiled\TileInstance.cs" />
+    <Compile Include="Tiled\TileProperties.cs" />
+    <Compile Include="Tiled\TileSet.cs" />
+    <Compile Include="Tiled\TileSetFactory.cs" />
+    <Compile Include="Tiled\TileType.cs" />
+    <Compile Include="Tiled\TmxNodeParser.cs" />
+    <Compile Include="Tiled\TmxReader.cs" />
+    <Compile Include="World\NodeInfo.cs" />
+    <Compile Include="World\World.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Assets\ArenaMap.tmx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Assets\mappaCasa2.tmx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Assets\MappaCasaFinal.tmx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Assets\mappaCaverna.tmx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Assets\MappaEsterna1.tmx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="OpenTK.dll.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\aivBG.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Audio\bark.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Audio\Boss-Theme.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Audio\House-Theme.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Audio\Intro-Theme.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Audio\Picked-Coin-Echo.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Audio\Sadness.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Audio\Victory1.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Audio\walkStep.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\comics.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Audio\Dungeon-Theme.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\EnemyDog\HEROS8bit_Dog Idle D.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\EnemyDog\HEROS8bit_Dog Idle R.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\EnemyDog\HEROS8bit_Dog Idle U.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\EnemyDog\HEROS8bit_Dog Walk D.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\EnemyDog\HEROS8bit_Dog Walk R.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\EnemyDog\HEROS8bit_Dog Walk U.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\gameOverBg.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Audio\Grasslands-Theme.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Items\cup.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Items\item8BIT_crown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Items\item8BIT_key.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\PixelPackTOPDOWN8BIT.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\player.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Player\HEROS8bit_Adventurer Idle D.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Player\HEROS8bit_Adventurer Idle R.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Player\HEROS8bit_Adventurer Idle U.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Player\HEROS8bit_Adventurer Walk D.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Player\HEROS8bit_Adventurer Walk R.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Player\HEROS8bit_Adventurer Walk U.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\textSheet.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\win.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\Maps\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{2d364d10-5986-48dd-97fe-e8b144d0c4e8}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
