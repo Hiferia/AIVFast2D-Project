@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.3" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="PixelPackTOPDOWN8BIT" tilewidth="16" tileheight="16" tilecount="480" columns="16">
+  <image source="PixelPackTOPDOWN8BIT.png" width="256" height="480"/>
+  <tile id="240">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="241">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="242">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="243">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="244">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="256">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="258">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="259">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="260">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="265">
+   <properties>
+    <property name="inDoorCave" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="266">
+   <properties>
+    <property name="inDoorCave" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="272">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="273">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="274">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="289">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="304">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="305">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="306">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="307">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="320">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="321">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="322">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="323">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="336">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="337">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="338">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="339">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="352">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="353">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="354">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="355">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer id="1" name="Livello tile 1" width="20" height="20">
+  <data encoding="csv">
+259,241,307,242,242,242,242,307,259,259,259,257,257,257,306,242,242,307,243,257,
+259,257,258,258,258,258,258,258,259,259,259,257,257,257,258,258,258,258,259,257,
+259,257,258,258,258,258,258,258,323,259,260,261,257,355,258,258,258,258,259,257,
+259,273,274,274,274,245,258,258,259,260,242,242,261,257,258,258,244,274,275,257,
+245,259,241,242,307,261,258,258,260,242,306,306,242,261,258,258,260,306,243,257,
+257,259,257,258,258,258,258,258,258,258,258,258,258,258,258,258,258,258,259,257,
+257,259,354,258,258,258,258,258,258,258,290,258,258,258,258,258,258,258,321,257,
+257,259,257,258,258,293,293,293,293,293,258,293,293,293,293,293,258,258,259,257,
+257,259,257,258,258,244,274,274,274,274,339,274,274,274,274,245,258,258,321,257,
+257,259,354,258,258,259,241,242,306,243,241,242,242,242,242,261,258,258,259,257,
+261,259,257,258,258,259,269,258,258,259,257,290,258,258,258,258,258,258,259,257,
+259,241,261,258,258,324,257,258,258,259,257,290,258,258,258,258,258,258,259,257,
+259,257,258,258,258,259,257,258,258,321,257,290,258,258,244,274,274,274,274,274,
+259,353,258,258,258,259,257,258,258,259,257,290,258,258,244,274,274,274,274,274,
+259,257,258,258,244,275,257,258,258,259,257,290,258,258,260,242,242,242,242,242,
+259,257,258,258,260,307,261,258,258,321,257,290,258,258,260,242,242,242,242,242,
+259,257,258,258,258,258,258,258,258,259,257,274,245,258,258,321,244,244,244,245,
+259,353,258,258,258,258,258,258,258,259,244,245,257,258,258,259,259,259,259,257,
+259,273,274,274,274,274,339,274,274,275,259,257,257,258,258,321,259,259,259,257,
+260,242,242,242,242,242,242,242,242,242,259,257,257,266,267,259,260,260,260,261
+</data>
+ </layer>
+</map>
